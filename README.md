@@ -47,21 +47,6 @@ C++ compilation environment is required.
              
     A^n = ⌈F(n)   F(n-1)⌉
           ⌊F(n-1) F(n-2)⌋ (n>=2)  
-          
-$$  
-\\[  
-\\left\\{ {\\begin{array}{*{20}c}  
-1 & 2 \\\  
-3 & 4 \\\  
-\\end{array}} \\right\\} + \\left\\{ {\begin{array}{*{20}c}  
-1 & 2 \\\  
-3 & 4 \\\  
-\\end{array}} \\right\\} = \\left\\{ {\\begin{array}{*{20}c}  
-1 & 2 \\\  
-3 & 4 \\\  
-\\end{array}} \\right\\}  
-\\]  
-$$   
 
 ## Fast Exponentiation
 
