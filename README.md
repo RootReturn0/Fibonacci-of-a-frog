@@ -9,4 +9,5 @@ C++ compilation environment is required.
 ```./a.exe```
 ### 3. Enter the number of steps
 ## How to solve the problem
->When
+1. If the number of steps is 0
+  The frog can not jump up steps
