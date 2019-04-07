@@ -4,12 +4,8 @@ There is a frog need to jump up steps. How many methods it can use if the frog c
 C++ compilation environment is required.
 ## How to use
 ### 1. Compile
-
-`g++ answer.cpp`
-
+```g++ answer.cpp```
 ### 2. Open
-
-`./a.exe`
-
+```./a.exe```
 ### 3. Enter the number of steps
 
