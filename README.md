@@ -3,5 +3,6 @@ The frog need to jump up steps. How many methods it can use if the frog can only
 ## Requirement
 C++ compilation environment is required.
 ## How to use
-1. ###compile
-    `g++ answer.cpp`
+1. **compile
+---
+`g++ answer.cpp`
