@@ -20,8 +20,13 @@ C++ compilation environment is required.
 **3. Else
 
     Assume the number of steps is n, the number of methods is F(n)
+    
     If the frog jumps up one step the first time,
+    
     then there are n-1 steps left, the number of methods is F(n-1)
+    
     Else the frog jumps up two steps the first time
+    
     then there are n-2 steps left, the number of methods is F(n-2)
+    
     Hence, F(n)=F(n-1)+F(n+2), which is a Fibonacci sequence
