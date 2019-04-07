@@ -7,7 +7,7 @@ C++ compilation environment is required.
 ```g++ answer.cpp```
 ### 2. Open
 ```./a.exe```
-### 3. Enter the number of steps
+
 ## How to solve the problem
 **1. If the number of steps is 0
   
