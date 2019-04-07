@@ -31,3 +31,5 @@ C++ compilation environment is required.
     
     Hence, F(n)=F(n-1)+F(n+2), which is a Fibonacci sequence
 **4. An alternative formula for the Fibonacci sequence**
+> ⌈F(n+2)⌉
+> ⌊F(n+1)⌋
