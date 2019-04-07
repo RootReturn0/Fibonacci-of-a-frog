@@ -6,16 +6,23 @@ C++ compilation environment is required.
 ### 1. Compile
 ```g++ answer.cpp```
 ### 2. Open
-```./a.exe```
+**Window**  
 
+`./a.exe`  
+
+**MacOS / Linux**   
+
+`./a.out`
 ## How to solve the problem
 **1. If the number of steps is 0**
   
-    The frog can not jump up steps. The number of methods is 0.
+    The frog can not jump up steps.  
+    The number of methods is 0.
     
 **2. If the number of steps is 1**
 
-    The frog can only jump up a single step. The number of methods is 1.
+    The frog can only jump up a single step.  
+    The number of methods is 1.
     
 **3. Else**
 
@@ -78,3 +85,7 @@ Matrix pow(Matrix a, int n)
     return re;
 }
 ```
+
+## Time Complexity  
+**O(log(n))**
+
