@@ -6,7 +6,7 @@ C++ compilation environment is required.
 ### 1. Compile
 ```g++ answer.cpp```
 ### 2. Open
-**Window**  
+**Windows**  
 
 `./a.exe`  
 
