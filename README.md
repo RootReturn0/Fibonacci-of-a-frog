@@ -1,4 +1,4 @@
-# A Frog Jumps Up Steps $$ax^{2} + by^{2} + c = 0$$
+# A Frog Jumps Up Steps
 There is a frog need to jump up steps. How many methods it can use if the frog can only jump up one or two steps each time.  
 ## Requirement
 C++ compilation environment is required.
@@ -46,7 +46,14 @@ C++ compilation environment is required.
              ⌊1 0⌋
              
     A^n = ⌈F(n)   F(n-1)⌉
-          ⌊F(n-1) F(n-2)⌋ (n>=2)
+          ⌊F(n-1) F(n-2)⌋ (n>=2)  
+    $$
+  \begin{matrix}
+   1 & 2 & 3 \\
+   4 & 5 & 6 \\
+   7 & 8 & 9
+  \end{matrix} \tag{1}
+$$
 
 ## Fast Exponentiation
 
