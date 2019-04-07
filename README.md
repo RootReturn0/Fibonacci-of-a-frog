@@ -47,13 +47,14 @@ C++ compilation environment is required.
              
     A^n = ⌈F(n)   F(n-1)⌉
           ⌊F(n-1) F(n-2)⌋ (n>=2)  
-$$
-  \begin{matrix}
-   1 & 2 & 3 \\
-   4 & 5 & 6 \\
-   7 & 8 & 9
-  \end{matrix} \tag{1}
-$$
+          
+$$  
+\begin{matrix}  
+   1 & 2 & 3 \\  
+   4 & 5 & 6 \\  
+   7 & 8 & 9  
+\end{matrix} \tag{1}  
+$$  
 
 ## Fast Exponentiation
 
