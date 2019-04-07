@@ -34,3 +34,8 @@ C++ compilation environment is required.
     
     ⌈F(n+2)⌉=⌈1 1⌉·⌈F(n+1)⌉
     ⌊F(n+1)⌋ ⌊1 0⌋ ⌊ F(n) ⌋
+    
+    Assume A=⌈1 1⌉, F(0)=0, F(1)=1
+             ⌊1 0⌋
+    A^n = ⌈F(n)   F(n-1)⌉
+          ⌊F(n-1) F(n-2)⌋ (n>=2)
