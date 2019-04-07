@@ -1,8 +1,6 @@
 # A Frog Jumps Up Steps
 There is a frog need to jump up steps. How many methods it can use if the frog can only jump up one or two steps each time.  
 ## Requirement
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
-
 C++ compilation environment is required.
 ## How to use
 ### 1. Compile
