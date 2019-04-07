@@ -44,12 +44,12 @@ C++ compilation environment is required.
 ## Fast Exponentiation
 
 > **For example**  
-> a^11=a^(2^0+2^1+2^3) which only multipate 3 times rather than 11 times  
-> 11 = 2³ × ***1*** + 2²× ***0*** + 2¹×***1*** + 2º×***1***  
-> 11 = bin(***1011***)  
+> a^11=a^(2^0+2^1+2^3)=a^8*a^2*a^1 which only multipate 3 times rather than 11 times  
+> 11 = 2³ × ***1*** + 2²× ***0*** + 2¹× ***1*** + 2º× ***1***  
+> 11 = bin( ***1011*** )  
 >  
 > Hence,  
-> If n=11, 
+
 ```
 Matrix pow(Matrix a, int n)
 {
