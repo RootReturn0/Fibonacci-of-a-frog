@@ -10,4 +10,5 @@ C++ compilation environment is required.
 ### 3. Enter the number of steps
 ## How to solve the problem
 1. If the number of steps is 0
+  
   The frog can not jump up steps
