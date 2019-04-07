@@ -49,11 +49,21 @@ C++ compilation environment is required.
           ⌊F(n-1) F(n-2)⌋ (n>=2)  
           
 $$  
-\\begin{bmatrix}  
-   1 & 2 & 3 \\\  
-   4 & 5 & 6 \\\  
-   7 & 8 & 9  
-\\end{bmatrix} \\tag{1}  
+\\begin{equation}  
+\\left\\[  
+\\begin{array}{ll}  
+1 & 1 \\\  
+2 & 2 \\\  
+\\end{array}  
+\\right\\]  
++  
+\\left\\[  
+\\begin{array}{ll}  
+1 & 1 \\\  
+2 & 2 \\\  
+\\end{array}  
+\\right\\]  
+\\end{equation}  
 $$  
 
 ## Fast Exponentiation
