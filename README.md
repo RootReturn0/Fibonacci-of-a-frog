@@ -37,5 +37,24 @@ C++ compilation environment is required.
     
     Assume A=⌈1 1⌉, F(0)=0, F(1)=1
              ⌊1 0⌋
+             
     A^n = ⌈F(n)   F(n-1)⌉
           ⌊F(n-1) F(n-2)⌋ (n>=2)
+
+## Fast Exponentiation
+```
+Matrix pow(Matrix a, int n)
+{
+    n -= 1; //n power operates (n - 1) times
+    Matrix re = a;
+    while (n)
+    {
+        if (n & 1)
+            re = mul(re, a); //re=re*a
+        a = mul(a, a);       //a=a*a
+        n >>= 1;
+    }
+
+    return re;
+}
+```
