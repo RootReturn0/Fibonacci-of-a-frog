@@ -39,13 +39,13 @@ C++ compilation environment is required.
     Hence, F(n)=F(n-1)+F(n+2), which is a Fibonacci sequence
 **4. An alternative formula for the Fibonacci sequence**
     
-  $$
-  \begin{bmatrix}
-        1 & x & x^2 \\
-        1 & y & y^2 \\
-        1 & z & z^2 \\
-  \end{bmatrix}
-  $$
+  $$  
+  \begin{bmatrix}  
+        1 & x & x^2 \\  
+        1 & y & y^2 \\  
+        1 & z & z^2 \\  
+  \end{bmatrix}  
+  $$  
     ⌈F(n+2)⌉=⌈1 1⌉·⌈F(n+1)⌉
     ⌊F(n+1)⌋ ⌊1 0⌋ ⌊ F(n) ⌋
     
