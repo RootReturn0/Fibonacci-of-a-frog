@@ -4,4 +4,4 @@ The frog need to jump up steps. How many methods it can use if the frog can only
 C++ compilation environment is required.
 ## How to use
 1. compile answer.cpp
- >g++ answer.cpp
+`<g++ answer.cpp>`
