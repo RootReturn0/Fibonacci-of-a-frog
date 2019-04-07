@@ -48,8 +48,12 @@ C++ compilation environment is required.
 > 11 = 2³ × ***1*** + 2²× ***0*** + 2¹× ***1*** + 2º× ***1***  
 > 11 = bin( ***1011*** )  
 >  
-> Hence,  
-
+> Hence, if n=11  
+> when the final bit of n is 1, result*=a  
+> a*=a
+> drop the final bit  
+> loop the previous 3 steps until n==0
+  
 ```
 Matrix pow(Matrix a, int n)
 {
