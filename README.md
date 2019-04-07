@@ -42,6 +42,8 @@ C++ compilation environment is required.
           ⌊F(n-1) F(n-2)⌋ (n>=2)
 
 ## Fast Exponentiation
+
+> 11 = 2³×1 + 2²×0 + 2¹×1 + 2º×1
 ```
 Matrix pow(Matrix a, int n)
 {
