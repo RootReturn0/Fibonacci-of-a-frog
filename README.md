@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # A Frog Jumps Up Steps
 There is a frog need to jump up steps. How many methods it can use if the frog can only jump up one or two steps each time.  
 ## Requirement
@@ -50,11 +49,11 @@ C++ compilation environment is required.
           ⌊F(n-1) F(n-2)⌋ (n>=2)  
           
 $$  
-\\begin{matrix}  
+\\begin{bmatrix}  
    1 & 2 & 3 \\\  
    4 & 5 & 6 \\\  
    7 & 8 & 9  
-\\end{matrix} \\tag{1}  
+\\end{bmatrix} \\tag{1}  
 $$  
 
 ## Fast Exponentiation
