@@ -47,35 +47,7 @@ C++ compilation environment is required.
              
     A^n = ⌈F(n)   F(n-1)⌉
           ⌊F(n-1) F(n-2)⌋ (n>=2)  
-$$  
-\\begin{equation}  
-\\left[  
-\\begin{array}{cccc}  
- 1& x_{0} &...  & x_{0}^{n}\\\  
- 1& x_{1} &...  & x_{1}^{n}\\\  
- &  &...& \\\  
- 1& x_{n} &...  &x_{n}^{n}  
-\\end{array}  
-\\right ]  
-\\left[  
-\\begin{array}{cccc}  
- a_{0}\\\  
- a_{1}\\\  
- ... \\\  
- a_{n}  
-\\end{array}  
-\\right ]  
-=  
-\\left[  
-\\begin{array}{cccc}  
- y_{0}\\\  
- y_{1}\\\  
- ... \\\  
- y_{n}  
-\\end{array}  
-\\right ]  
-\\end{equation}  
-$$  
+
 ## Fast Exponentiation
 
 > **For example**  
