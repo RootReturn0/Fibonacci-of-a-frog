@@ -9,15 +9,15 @@ C++ compilation environment is required.
 ```./a.exe```
 
 ## How to solve the problem
-**1. If the number of steps is 0
+**1. If the number of steps is 0**
   
     The frog can not jump up steps. The number of methods is 0.
     
-**2. If the number of steps is 1
+**2. If the number of steps is 1**
 
     The frog can only jump up a single step. The number of methods is 1.
     
-**3. Else
+**3. Else**
 
     Assume the number of steps is n, the number of methods is F(n)
     
