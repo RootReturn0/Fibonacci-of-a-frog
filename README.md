@@ -8,4 +8,5 @@ C++ compilation environment is required.
 ### 2. Open
 ```./a.exe```
 ### 3. Enter the number of steps
-
+## How to solve the problem
+>When
