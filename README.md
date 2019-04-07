@@ -49,21 +49,18 @@ C++ compilation environment is required.
           ⌊F(n-1) F(n-2)⌋ (n>=2)  
           
 $$  
-\\begin{equation}  
-\\left\\[  
-\\begin{array}{ll}  
-1 & 1 \\\  
-2 & 2 \\\  
-\\end{array}  
-\\right\\]  
-+  
-\\left\\[  
-\\begin{array}{ll}  
-1 & 1 \\\  
-2 & 2 \\\  
-\\end{array}  
-\\right\\]  
-\\end{equation}  
+\[
+\left\{ {\begin{array}{*{20}c}
+1 & 2 \\
+3 & 4 \\
+\end{array}} \right\} + \left\{ {\begin{array}{*{20}c}
+1 & 2 \\
+3 & 4 \\
+\end{array}} \right\} = \left\{ {\begin{array}{*{20}c}
+1 & 2 \\
+3 & 4 \\
+\end{array}} \right\}
+\] 
 $$  
 
 ## Fast Exponentiation
