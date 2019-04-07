@@ -30,3 +30,4 @@ C++ compilation environment is required.
     then there are n-2 steps left, the number of methods is F(n-2)
     
     Hence, F(n)=F(n-1)+F(n+2), which is a Fibonacci sequence
+**4. An alternative formula for the Fibonacci sequence**
