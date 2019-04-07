@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # A Frog Jumps Up Steps
 There is a frog need to jump up steps. How many methods it can use if the frog can only jump up one or two steps each time.  
 ## Requirement
